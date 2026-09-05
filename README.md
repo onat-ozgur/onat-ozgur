@@ -1,8 +1,6 @@
 # Embedded Systems & Hardware Design
 
-Electrical & Electronics Engineering student focusing on embedded firmware, microcontrollers, sensor fusion, and hardware circuit prototyping.
-Building real-time IoT devices, motor drives, and wearable hardware with low-level C/C++ architecture.
-
+I'm an Electrical & Electronics Engineer passionate about low-level C/C++ firmware, PCB design, and sensor fusion. I build functional, robust embedded devices with an analytical and hands-on approach.
 ---
 
 ### Favorite Tech & Tools
