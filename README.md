@@ -8,9 +8,7 @@ I'm an Electrical & Electronics Engineer passionate about low-level C/C++ firmwa
 > Tools, hardware platforms, and languages I work with:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,matlab,github" />
-</p><p align="left">
-  <img src="https://img.shields.io/badge/AutoCAD-E5103A?style=for-the-badge&logo=autodesk&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,matlab,github" /> <img src="https://img.shields.io/badge/AutoCAD-E5103A?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
 | C / C++ | Microcontrollers | EDA / Simulation | Systems |
 | :--- | :--- | :--- | :--- |
