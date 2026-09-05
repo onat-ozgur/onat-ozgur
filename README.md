@@ -16,14 +16,7 @@ Building real-time IoT devices, motor drives, and wearable hardware with low-lev
 
 | C / C++ | Microcontrollers | EDA / Simulation | Systems |
 | :--- | :--- | :--- | :--- |
-| C / C++ (Embedded) | ESP32, STM32, Arduino | Altium Designer, LTspice | FreeRTOS, I2C, SPI, UART |
-| Assembly | MPU6050, IMU Sensors | AutoCAD, SolidWorks | Git, GitHub, Linux |
+| C / C++ (Embedded) | ESP32, STM32, Arduino | Altium Designer, LTspice, AutoCAD | FreeRTOS, I2C, SPI, UART |
+| Assembly | MPU6050, IMU Sensors | AutoCAD, SolidWorks | GitHub|
 
 ---
-
-### GitHub Activity & Analytics
-
-<p align="left">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=onatozgr-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onatozgr-creator&layout=compact&theme=tokyonight" />
-</p>
