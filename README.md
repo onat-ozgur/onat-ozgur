@@ -14,6 +14,6 @@ I'm an Electrical & Electronics Engineer passionate about low-level C/C++ firmwa
 | C / C++ | Microcontrollers | EDA / Simulation | Systems |
 | :--- | :--- | :--- | :--- |
 | C / C++ (Embedded) | ESP32, STM32, Arduino | Altium Designer, LTspice | FreeRTOS, I2C, SPI, UART |
-| Assembly | MPU6050, IMU Sensors | AutoCAD, SolidWorks | GitHub|
+| Assembly |  IMU Sensors | AutoCAD, SolidWorks | GitHub|
 
 ---
