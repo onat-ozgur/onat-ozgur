@@ -1,7 +1,6 @@
 # Embedded Systems & Hardware Design
 
 Electrical & Electronics Engineering student focusing on embedded firmware, microcontrollers, sensor fusion, and hardware circuit prototyping.
-
 Building real-time IoT devices, motor drives, and wearable hardware with low-level C/C++ architecture.
 
 ---
